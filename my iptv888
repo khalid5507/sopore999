@@ -1,0 +1,460 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Pakistan" ,Hum Tv PK
+http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w691878153.m3u8
+#EXTINF:-1 group-title="Pakistan" ,92 News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9253.m3u8
+#EXTINF:-1 group-title="Pakistan",Hum TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5208.m3u8
+#EXTINF:-1 group-title="Pakistan",92 News HD PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9249.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Ary Digital PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9246.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Ary Digital USA PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9245.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Ary News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9243.m3u8
+#EXTINF:-1 group-title="Pakistan",Ary QTV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9242.m3u8
+#EXTINF:-1 group-title="Pakistan",Ary Zaiqa PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9241.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Ary Zindagi PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9240.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Dunya News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9236.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Dunya News 2 PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9235.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo ENT PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9232.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo Kahani PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9231.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9230.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo Super PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9229.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo Tez PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9228.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9227.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo TV HD PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9254.m3u8
+
+#EXTINF:-1 group-title="Pakistan" ,PTV Prime PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5203.m3u8
+#EXTINF:-1 group-title="Pakistan" ,PTV Home PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9214.m3u8
+#EXTINF:-1 group-title="Pakistan" ,PTV News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9213.m3u8
+#EXTINF:-1 group-title="Pakistan" ,PTV Sports PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9212.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Peace TV Urdu PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9215.m3u8
+#EXTINF:-1 group-title="Pakistan" ,TV One Global PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9207.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Urdu 1 PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9206.m3u8
+#EXTINF:-1 group-title="Pakistan" ,A Plus PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5202.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Aaj News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9248.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Apna PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9247.m3u8
+#EXTINF:-1 group-title="Pakistan" ,ATV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9239.m3u8
+#EXTINF:-1 group-title="Pakistan" ,City 42 PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9237.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Dawn News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5204.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Express PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5205.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Express News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9234.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Geo Sports PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5207.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Hadi TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9226.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Health TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9225.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Hum Europe PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9224.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Hum Masala PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9223.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Hum Sitaray PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9222.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Hum World PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9221.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Jalwa TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9220.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Khyber TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5209.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Khyber News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9219.m3u8
+#EXTINF:-1 group-title="Pakistan" ,KTN TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9218.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Lahore News HD PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9252.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Madani Channel PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9217.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Madina Live PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5210.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Makkah Live HD PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5211.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Metro One PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9216.m3u8
+#EXTINF:-1 group-title="Pakistan" ,News One PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5212.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Pak News HD PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9251.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Royal TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9210.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Roze News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9209.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Tehzeeb TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9208.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Waseeb TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5213.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Waqt News PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9205.m3u8
+#EXTINF:-1 group-title="Pakistan" ,8XM PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/9250.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Samaa TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/17467.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Noor TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/37948.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Hidayat TV PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/37947.m3u8
+#EXTINF:-1 group-title="Pakistan" ,Bol News HD PK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/53162.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="India" ,Gulistan News IN
+https://rtmp.smartstream.video/gulistannews/gulistannews/chunklist_w1428177082.m3u8
+#EXTINF:-1 group-title="India" ,News18 Urdu IN
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+#EXTINF:-1 group-title="India" ,Zee TV HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672459.m3u8
+#EXTINF:-1 group-title="India" ,Zee TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4000.m3u8
+#EXTINF:-1 group-title="India" ,Star Plus HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672450.m3u8
+#EXTINF:-1 group-title="India" ,Colors HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/651513.m3u8
+#EXTINF:-1 group-title="India" ,Sony HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5574.m3u8
+#EXTINF:-1 group-title="India" ,Sony TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3984.m3u8
+#EXTINF:-1 group-title="India" ,Sony TV UK IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/13175.m3u8
+#EXTINF:-1 group-title="India" ,Mastii IN
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="India" ,Nazrana Music HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672317.m3u8
+#EXTINF:-1 group-title="India" ,9XM IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4009.m3u8
+#EXTINF:-1 group-title="India" ,9X Tashan IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10617.m3u8
+#EXTINF:-1 group-title="India" ,B4U Music IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3993.m3u8
+#EXTINF:-1 group-title="India" ,B4u+ IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672304.m3u8
+#EXTINF:-1 group-title="India" ,B4u kadak IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672305.m3u8
+#EXTINF:-1 group-title="India",& Pictures IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10622.m3u8
+#EXTINF:-1 group-title="India" ,Bollywood Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4007.m3u8
+#EXTINF:-1 group-title="India" ,B4U Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672302.m3u8
+#EXTINF:-1 group-title="India" ,Star Gold HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3983.m3u8
+#EXTINF:-1 group-title="India" ,Star Jalsha IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3982.m3u8
+#EXTINF:-1 group-title="India" ,Star Movies HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3981.m3u8
+#EXTINF:-1 group-title="India" ,Star Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672448.m3u8
+#EXTINF:-1 group-title="India" ,Zee Bollywood IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5565.m3u8
+#EXTINF:-1 group-title="India" ,Zee ETC Bollywood IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5539.m3u8
+#EXTINF:-1 group-title="India" ,Movies OK IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5558.m3u8
+#EXTINF:-1 group-title="India" ,Sony Sab (UK) IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672323.m3u8
+#EXTINF:-1 group-title="India" ,Sony Set Max FHD IN VIP
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672324.m3u8
+#EXTINF:-1 group-title="India" ,Sony Set Max HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3986.m3u8
+#EXTINF:-1 group-title="India" ,Sony MIX HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3988.m3u8
+#EXTINF:-1 group-title="India" ,Sony Max IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3990.m3u8
+#EXTINF:-1 group-title="India" ,Sony Max 2 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3989.m3u8
+#EXTINF:-1 group-title="India" ,Sony Max UK IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672321.m3u8
+#EXTINF:-1 group-title="India" ,Sony Pix HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10607.m3u8
+#EXTINF:-1 group-title="India" ,Sony Pix IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10606.m3u8
+#EXTINF:-1 group-title="India" ,UTV Movies HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5542.m3u8
+#EXTINF:-1 group-title="India" ,UTV Movies US IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10615.m3u8
+#EXTINF:-1 group-title="India" ,UTV Bindas IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5541.m3u8
+#EXTINF:-1 group-title="India" ,Zee Cinema FHD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4002.m3u8
+#EXTINF:-1 group-title="India" ,Zee Cinema IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3967.m3u8
+#EXTINF:-1 group-title="India" ,Zee Cinema IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3968.m3u8
+#EXTINF:-1 group-title="India" ,Zee Cinema (USA) IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672452.m3u8
+#EXTINF:-1 group-title="India" ,Zee Cinema Inter IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4001.m3u8
+#EXTINF:-1 group-title="India" ,Zee Action HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3971.m3u8
+#EXTINF:-1 group-title="India" ,Zee Anmol Cinema IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3970.m3u8
+
+#EXTINF:-1 group-title="India" ,NDTV 24x7 HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4008.m3u8
+
+#EXTINF:-1 group-title="India" ,ABP News IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3998.m3u8
+#EXTINF:-1 group-title="India" ,Asianet IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5575.m3u8
+#EXTINF:-1 group-title="India" ,Asianet Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5577.m3u8
+#EXTINF:-1 group-title="India" ,Asianet News IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5578.m3u8
+#EXTINF:-1 group-title="India" ,Asianet Plus IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5576.m3u8
+#EXTINF:-1 group-title="India" ,Anand IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10595.m3u8
+#EXTINF:-1 group-title="India" ,Aaj Tak News IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/11294.m3u8
+#EXTINF:-1 group-title="India" ,Aastha TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/11297.m3u8
+
+
+#EXTINF:-1 group-title="India" ,ATN Bangla IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10610.m3u8
+#EXTINF:-1 group-title="India" ,Banglavision IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10614.m3u8
+#EXTINF:-1 group-title="India" ,Bangla Time IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10620.m3u8
+#EXTINF:-1 group-title="India" ,Movie Bangla IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10613.m3u8
+
+#EXTINF:-1 group-title="India" ,Chardikla Time TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5563.m3u8
+#EXTINF:-1 group-title="India" ,Colors [UK] FHD VIP IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672308.m3u8
+
+#EXTINF:-1 group-title="India" ,Colors [B] HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5579.m3u8
+#EXTINF:-1 group-title="India" ,Desi Channel Punjabi IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/4005.m3u8
+#EXTINF:-1 group-title="India" ,Deepto IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10624.m3u8
+#EXTINF:-1 group-title="India" ,Dhoom Music IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10599.m3u8
+#EXTINF:-1 group-title="India" ,Gemini Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10621.m3u8
+#EXTINF:-1 group-title="India" ,India Today IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5561.m3u8
+#EXTINF:-1 group-title="India" ,India TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5562.m3u8
+#EXTINF:-1 group-title="India" ,Independent TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10600.m3u8
+#EXTINF:-1 group-title="India" ,Jaya Max USA IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5582.m3u8
+#EXTINF:-1 group-title="India" ,Jaya Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5581.m3u8
+#EXTINF:-1 group-title="India" ,Jaya Plus IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5580.m3u8
+#EXTINF:-1 group-title="India" ,Jamuna TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10601.m3u8
+#EXTINF:-1 group-title="India" ,Jaya TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5583.m3u8
+#EXTINF:-1 group-title="India" ,KTV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5560.m3u8
+#EXTINF:-1 group-title="India" ,Living Foodz IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10612.m3u8
+#EXTINF:-1 group-title="India" ,MTV India IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5556.m3u8
+#EXTINF:-1 group-title="India" ,M Tunes IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5584.m3u8
+#EXTINF:-1 group-title="India" ,Maa Gold IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5586.m3u8
+#EXTINF:-1 group-title="India" ,Maa Movies IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5585.m3u8
+
+#EXTINF:-1 group-title="India" ,MTV Beats IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5557.m3u8
+#EXTINF:-1 group-title="India" ,Mohona TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10587.m3u8
+#EXTINF:-1 group-title="India" ,News X IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10592.m3u8
+#EXTINF:-1 group-title="India" ,NTV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10602.m3u8
+#EXTINF:-1 group-title="India" ,NTV Europe IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10603.m3u8
+#EXTINF:-1 group-title="India" ,NDTV 24x7 HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/19491.m3u8
+#EXTINF:-1 group-title="India" ,NTV HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10589.m3u8
+#EXTINF:-1 group-title="India" ,PTC Chakde IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5553.m3u8
+#EXTINF:-1 group-title="India" ,PTC News Punjabi IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5555.m3u8
+#EXTINF:-1 group-title="India" ,PTC Punjabi Gold IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5554.m3u8
+#EXTINF:-1 group-title="India" ,Raj Digital Plus IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5551.m3u8
+#EXTINF:-1 group-title="India" ,Raj Musix IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5550.m3u8
+#EXTINF:-1 group-title="India" ,Raj News 24x7 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5549.m3u8
+#EXTINF:-1 group-title="India" ,Raj TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5552.m3u8
+#EXTINF:-1 group-title="India" ,Rishtey Color IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/11295.m3u8
+#EXTINF:-1 group-title="India" ,Rishtey Europe IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/11296.m3u8
+#EXTINF:-1 group-title="India" ,RTV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10626.m3u8
+#EXTINF:-1 group-title="India" ,Santhora TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5564.m3u8
+#EXTINF:-1 group-title="India" ,Sony Saab FHD VIP IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672322.m3u8
+#EXTINF:-1 group-title="India" ,Sony Saab TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3987.m3u8
+
+#EXTINF:-1 group-title="India" ,Sony [UK] HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10609.m3u8
+#EXTINF:-1 group-title="India" ,Sony Six HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3985.m3u8
+#EXTINF:-1 group-title="India" ,Animal Planet IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672301.m3u8
+#EXTINF:-1 group-title="India" ,Sony Six IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5548.m3u8
+#EXTINF:-1 group-title="India" ,Sony Ten 1 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672325.m3u8
+#EXTINF:-1 group-title="India" ,Sony Ten 2 HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672444.m3u8
+#EXTINF:-1 group-title="India" ,Sony Ten 3 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672445.m3u8
+#EXTINF:-1 group-title="India" ,Sony Waha FHD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672446.m3u8
+#EXTINF:-1 group-title="India" ,Sony Pal FHD VIP IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/676908.m3u8
+
+#EXTINF:-1 group-title="India" ,Star Plus [UK] IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/13174.m3u8
+
+#EXTINF:-1 group-title="India" ,Star Sports 1 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3979.m3u8
+#EXTINF:-1 group-title="India" ,Star Sports 2 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/397844.m3u8
+#EXTINF:-1 group-title="India" ,Star Sports 3 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3977.m3u8
+#EXTINF:-1 group-title="India" ,Star Bharat IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5544.m3u8
+#EXTINF:-1 group-title="India" ,Star Bharat (UK) IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672447.m3u8
+#EXTINF:-1 group-title="India" ,Star Vijay IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5545.m3u8
+#EXTINF:-1 group-title="India" ,Sun Music IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3975.m3u8
+#EXTINF:-1 group-title="India" ,Sun TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3974.m3u8
+#EXTINF:-1 group-title="India" ,Sun TV [US] IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3973.m3u8
+#EXTINF:-1 group-title="India" ,Somoy News TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10605.m3u8
+#EXTINF:-1 group-title="India" ,Ten 1 HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3972.m3u8
+#EXTINF:-1 group-title="India" ,Ten 2 HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5589.m3u8
+#EXTINF:-1 group-title="India" ,Ten 3 HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5590.m3u8
+#EXTINF:-1 group-title="India" ,Ten Sports IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10608.m3u8
+
+#EXTINF:-1 group-title="India" ,Willow IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10631.m3u8
+
+
+#EXTINF:-1 group-title="India" ,Zee TV US HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/20912.m3u8
+#EXTINF:-1 group-title="India" ,Zee TV UK IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672458.m3u8
+#EXTINF:-1 group-title="India" ,Zee Anmol IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5566.m3u8
+#EXTINF:-1 ,Zee Bangla IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5592.m3u8
+#EXTINF:-1 group-title="India" ,Zee Business IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5570.m3u8
+
+#EXTINF:-1 group-title="India" ,Zee News IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672455.m3u8
+#EXTINF:-1 group-title="India" ,Zee Punjabi IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5571.m3u8
+#EXTINF:-1 group-title="India" ,Zee Telugu IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5593.m3u8
+#EXTINF:-1 group-title="India" ,Zee Alwan IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10630.m3u8
+#EXTINF:-1 group-title="India" ,Zee Living HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672453.m3u8
+#EXTINF:-1 group-title="India" ,ZEE living (USA) IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672454.m3u8
+#EXTINF:-1 group-title="India" ,Zee Rajasthan HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672456.m3u8
+#EXTINF:-1 group-title="India" ,Zee Theatre HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672457.m3u8
+#EXTINF:-1 group-title="India" ,Zing IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5596.m3u8
+#EXTINF:-1 group-title="India" ,Zing UK IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5595.m3u8
+#EXTINF:-1 group-title="India" ,Zoom IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5538.m3u8
+#EXTINF:-1 group-title="India" ,MTA 3 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/624945.m3u8
+#EXTINF:-1 group-title="India" ,&TV IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672296.m3u8
+#EXTINF:-1 group-title="India" ,1st India News HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672297.m3u8
+#EXTINF:-1 group-title="India" ,9XM Musci IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672298.m3u8
+#EXTINF:-1 group-title="India" ,Aastha TV UK IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672299.m3u8
+#EXTINF:-1 group-title="India" ,ABP News IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672300.m3u8
+
+#EXTINF:-1 group-title="India" ,CNBC TV 18 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672306.m3u8
+#EXTINF:-1 group-title="India" ,CNN News 18 IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672307.m3u8
+#EXTINF:-1 group-title="India" ,DD National IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672310.m3u8
+#EXTINF:-1 group-title="India" ,Epic HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672313.m3u8
+#EXTINF:-1 group-title="India" ,Food Food HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672314.m3u8
+
+#EXTINF:-1 group-title="India" ,NDTV News HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672318.m3u8
+#EXTINF:-1 group-title="India" ,NDTV Profit IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672319.m3u8
+#EXTINF:-1 group-title="India" ,POP Music HD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672320.m3u8
+#EXTINF:-1 group-title="India" ,TLC IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/672451.m3u8
+#EXTINF:-1 group-title="India" ,Vision Punjab TV FHD IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/676906.m3u8
+#EXTINF:-1 group-title="India" ,Sahara Filmy IN
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/676909.m3u8
